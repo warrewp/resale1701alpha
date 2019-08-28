@@ -8,7 +8,8 @@ This app will be a website you can visit to learn about the burgeoning recommerc
 
 
 ## Features
-* Recommerce MP catergories: Fashion; Kids; Electronics; Media; Junk
+* Recommerce MP catergories: 
+   * Fashion; Kids; Electronics; Media; Junk
 * Pages for each category that list the available marketplaces, any further refining "tags", a short description, and the MP's transaction fee on a sale.
 
 ## Wireframes
