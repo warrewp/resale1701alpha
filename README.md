@@ -4,11 +4,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Resale Fortune
 
-This app will be a website you can visit to learn about the burgeoning recommerce marketplaces.  The goal of this site is to help individuals identify which marketplaces are best suited to selling their stuff.
+This app will be a website you can visit to learn about the burgeoning recommerce marketplaces (MP).  The goal of this site is to help individuals identify which marketplaces are best suited to selling their stuff.
 
-## Feautres:
+## Features:
 * Recommerce MP catergories
-** Fashion
+..* Fashion
+..* Kids
+..* Electronics
+..* Media
+..* Junk
+* Pages for each category that lists:
+..* marketplaces
 
 ### `npm start`
 
