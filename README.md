@@ -1,4 +1,4 @@
-![Resale Fortune]
+[Resale Fortune](https://raw.githubusercontent.com/warrewp/resale1701alpha/pwbranch/resale%20fortune.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
