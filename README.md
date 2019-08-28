@@ -1,12 +1,14 @@
-This is a test from qchen301
 
-This is a test from pw...
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Resale Fortune
 
-In the project directory, you can run:
+This app will be a website you can visit to learn about the burgeoning recommerce marketplaces.  The goal of this site is to help individuals identify which marketplaces are best suited to selling their stuff.
+
+##Feautres:
+* Recommerce MP catergories
+** Fashion
 
 ### `npm start`
 
