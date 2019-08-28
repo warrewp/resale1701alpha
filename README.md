@@ -2,7 +2,7 @@
 
 ---
 
-# Overview
+## Overview
 
 This app will be a website you can visit to learn about the burgeoning recommerce marketplaces (MP).  The goal of this site is to help individuals identify which marketplaces are best suited to selling their stuff.
 
@@ -14,7 +14,7 @@ This app will be a website you can visit to learn about the burgeoning recommerc
 ## Wireframes
 coming sooooonn
 
-##Technologies Used
+## Technologies Used
 * This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
